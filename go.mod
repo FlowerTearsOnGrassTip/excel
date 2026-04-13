@@ -1,4 +1,4 @@
-module excel
+module github.com/FlowerTearsOnGrassTip/excel
 
 go 1.23.0
 
